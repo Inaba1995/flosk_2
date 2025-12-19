@@ -10,3 +10,8 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
+
+.carousel-item active{
+height: 40%;
+padding: 40px;
+}
